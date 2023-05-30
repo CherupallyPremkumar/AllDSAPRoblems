@@ -1,0 +1,9 @@
+  spring:
+    profiles:
+    active : development
+spring:
+  database:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/hibernate
+  username: root
+  password: Prem@9030

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Calculator-master/Calculator-master/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Bike.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Code.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/CodeNinja/MoveAllNegativeNumbersToBeginningAndPositiveToEnd.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Componenets.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/DsaApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Engine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Graph/Detectcycleinanundirectedgraph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Implementation/HashSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Implementation/HashSetIm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/SortStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/JAXB/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LInkedList/MultiplyLInkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/AverageSalaryExcludingtheMinimumandMaximumSalary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/CounttheNumberofGoodSubarrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DesignParkingSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DifferenceBetweenElementSumandDigitSumofanArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/EvaluateDivision.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/IncrementSubmatricesbyOne.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/KthLargestElementinaStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MaximizeScoreAfterNOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MergeIntervals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/New21GAme.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/ProgramtosortanarrayoftringsusingSelectionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/RemoveOneElementtoMaketheArrayStrictlyIncreasing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SecondLargestDigitinString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SelectionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/ShortestBridge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SolvingQuestionsWithBrainpower.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SpiralMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/TopKFrequentElements.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/Bike.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/NullVechile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/Vechile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/NullObjectDesignPattern/VechileFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Pojo/Book.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Pojo/Books.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Pojo/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/SlidingWindow/findingmaximumsumofasubarrayofsizek.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/DifferenceBetweenElementSumandDigitSumofanArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/IncrementSubmatricesbyOne.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/MergeIntervals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/ProgramtosortanarrayoftringsusingSelectionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/RemoveOneElementtoMaketheArrayStrictlyIncreasing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/SelectionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Sorting/SpiralMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/Hibernate.cfg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/premkumar/DSA/DsaApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Ecommerce/Ecommerce/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Ecommerce/Ecommerce/src/main/java/com/premkumar/Ecommerce/EcommerceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Ecommerce/Ecommerce/src/main/java/com/premkumar/Ecommerce/Service/Implementation/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadder-master/SnakeAndLadder-master/src/main/java/Dao/GameDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadder-master/SnakeAndLadder-master/src/test/java/Testing/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadder-master/SnakeAndLadder/src/main/java/Service/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadder/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadder/src/main/java/Service/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Config/KakfaProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Controller/Contorller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Convertor/GameConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/DTO/GameDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/DTO/GameExitDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/DTO/PlayerDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Exception/InvalidGameException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Dice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Player.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Repo/DiceRepo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Repo/PlayersRepo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/BoadService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/GameCreationStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/SendAndResponseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/SnakeAndLadderAPiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/resources/log4j2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/test/java/com/prem/SnakeAndLadderAPi/SnakeAndLadderAPiApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../demo (7)/Hibernate/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Controller/Controllerr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Dao/GameDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Pojo/Board.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Pojo/Dice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Pojo/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/main/java/Service/GameService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/SnakeAndLadder/src/test/java/Testing/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/SOLID/openClosePrinciple/before/client/CalculateTaxesClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/SOLID/openClosePrinciple/before/employees/PartTimeEmployee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/SOLID/openClosePrinciple/before/persistence/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/SOLID/openClosePrinciple/before/taxes/TaxCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/SOLID/openClosePrinciple/before/taxes/TaxPartTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../low-level-design-concepts-Apri20/low-level-design-concepts-Apri20/src/oops/designPatterns/decorator/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../video4j-master/video4j-master/src/main/java/io/metaloom/video4j/opencv/CVUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../video4j-master/video4j-master/src/main/java/io/metaloom/video4j/preview/PreviewGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
