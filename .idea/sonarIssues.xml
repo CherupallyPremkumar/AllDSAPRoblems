@@ -18,6 +18,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/BFS/B.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/BFS/BFSonw2dGrid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/BFS/Grapg.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/BFS/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Bike.java">
           <value>
             <set />
@@ -73,6 +93,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/FindtheElementthatappearsonceinsortedarray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/SortStack.java">
           <value>
             <set />
@@ -103,12 +128,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DesignUnderGroundSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DifferenceBetweenElementSumandDigitSumofanArray.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/EqualRowColumnPairs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/EvaluateDivision.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/FindtheKBeautyofaNumber.java">
           <value>
             <set />
           </value>
@@ -123,12 +163,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestNicSubstring.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MaximizeScoreAfterNOperations.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MaximumValueataGivenIndexinaBoundedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MergeIntervals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MinimumAbsoluteDifferenceinBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MinimumFlipstoMakeORbEqualtoc.java">
           <value>
             <set />
           </value>
@@ -163,12 +223,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SignoftheProductofanArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SolvingQuestionsWithBrainpower.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SpiralMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SubstringsofSizeThreewithDistinctCharacters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/SymentricTree.java">
           <value>
             <set />
           </value>
@@ -328,7 +403,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Config/KafkaConnector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Config/KakfaProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Config/RedisConfig.java">
           <value>
             <set />
           </value>
@@ -363,7 +448,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Board.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Dice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Game.java">
           <value>
             <set />
           </value>
@@ -398,12 +493,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/RedisGameImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Service/SendAndResponseService.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/SnakeAndLadderAPiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/resources/app.yaml">
           <value>
             <set />
           </value>
