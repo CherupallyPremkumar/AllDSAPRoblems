@@ -6,12 +6,9 @@ import java.util.List;
 
 public class MoveAllNegativeNumbersToBeginningAndPositiveToEnd {
     public static void main(String[] args) {
-
-
                   separateNegativeAndPositive(new int[]{-23, 48, -13, 31, -12, 6, -42, 23, 14, 33, -33, -21, 0 ,25, -39, -31 }) ;
     }
         public static int[] separateNegativeAndPositive(int a[]) {
-
             int i=0;
             int j=a.length-1;
             while(i<j)
@@ -27,8 +24,6 @@ public class MoveAllNegativeNumbersToBeginningAndPositiveToEnd {
             }
             System.out.println(Arrays.toString(a));
             return a;
-
-
         }
         public static void swap(int i,int j,int[] a)
         {
@@ -50,13 +45,13 @@ public class MoveAllNegativeNumbersToBeginningAndPositiveToEnd {
                  int cur=GoldMineProblem(mine, i, 0,0,0);
                  max=Math.max(max,cur);
         }
-                                   return max;
+        return max;
     }
     public static int GoldMineProblem(int[][] mine,int row,int column,int max,int cur)
     {
 
       if(row<0 || row>mine.length || column>mine[0].length || column<0){ return 0;}
-       return mine[row][column]+          Math.max(Math.max(GoldMineProblem(mine, row-1, column+1,max,cur), GoldMineProblem(mine, row, column+1,max,cur)) ,GoldMineProblem(mine, row+1, column+1,max,cur));
+       return mine[row][column]+Math.max(Math.max(GoldMineProblem(mine, row-1, column+1,max,cur), GoldMineProblem(mine, row, column+1,max,cur)) ,GoldMineProblem(mine, row+1, column+1,max,cur));
 
     }
 }
