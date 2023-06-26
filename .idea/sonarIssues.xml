@@ -103,6 +103,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/lottoryCoupon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/JAXB/Employee.java">
           <value>
             <set />
@@ -114,6 +119,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/AverageSalaryExcludingtheMinimumandMaximumSalary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/BestTimetoBuyandSellStock.java">
           <value>
             <set />
           </value>
@@ -178,12 +188,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestArithmeticSubsequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestNicSubstring.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MaximizeScoreAfterNOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MaximumProductSumArray.java">
           <value>
             <set />
           </value>
@@ -269,6 +289,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/TopKFrequentElements.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/TotalCosttoHireKWorkers.java">
           <value>
             <set />
           </value>
