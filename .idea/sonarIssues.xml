@@ -63,6 +63,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Design.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/DsaApplication.java">
           <value>
             <set />
@@ -93,12 +98,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/BuyStock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/FindPairs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/FindtheElementthatappearsonceinsortedarray.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/JavaEight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/SortStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/Interview/StackusingQueue.java">
           <value>
             <set />
           </value>
@@ -123,7 +148,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/BFS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/BestTimetoBuyandSellStock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/BuddyString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/CounttheNumberofConsistentStrings.java">
           <value>
             <set />
           </value>
@@ -143,6 +183,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DeterminetheWinnerofaBowlingGame.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/DifferenceBetweenElementSumandDigitSumofanArray.java">
           <value>
             <set />
@@ -158,12 +203,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/FindKPairswithSmallestSums.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/FindtheHighestAltitude.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/FindtheKBeautyofaNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/FirstCompletelyPaintedRoworColumn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/GenerateParanthsis.java">
           <value>
             <set />
           </value>
@@ -188,12 +248,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LastDayWhereYouCanStillCross.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestArithmeticSubsequence.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestNicSubstring.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/LongestSubarrayofAfterDeletingOneElement.java">
           <value>
             <set />
           </value>
@@ -233,12 +303,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/MinimumSizeSubarraySum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/New21GAme.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/ProgramtosortanarrayoftringsusingSelectionSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/LeetCodeSolution/PutMarblesinBags.java">
           <value>
             <set />
           </value>
@@ -383,6 +463,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/design/NumberofRecentCalls.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/jackson/Author.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/jackson/Call.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/premkumar/DSA/jackson/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/Hibernate.cfg.xml">
           <value>
             <set />
@@ -473,6 +573,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/DTO/Error.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/DTO/GameDto.java">
           <value>
             <set />
@@ -509,6 +614,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Player.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/Pojo/Token.java">
           <value>
             <set />
           </value>
@@ -553,6 +663,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/java/com/prem/SnakeAndLadderAPi/advice/CustomExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/main/resources/app.yaml">
           <value>
             <set />
@@ -569,6 +684,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../SnakeAndLadderAPi/SnakeAndLadderAPi/src/test/java/com/prem/SnakeAndLadderAPi/SnakeAndLadderAPiApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Test/Test/src/main/java/com/example/Test/Interview/S.java">
           <value>
             <set />
           </value>
